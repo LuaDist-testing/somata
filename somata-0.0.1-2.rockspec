@@ -1,17 +1,17 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "somata"
-version = "0.0.1-1"
+version = "0.0.1-2"
 
 -- LuaDist source
 source = {
-  tag = "0.0.1-1",
+  tag = "0.0.1-2",
   url = "git://github.com/LuaDist-testing/somata.git"
 }
 -- Original source
 -- source = {
 --     url = "git://github.com/somata/somata-lua",
---     tag = "v0.0.1-1"
+--     tag = "v0.0.1-2"
 -- }
 
 description = {
